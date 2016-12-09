@@ -10,4 +10,10 @@ http://www.masiqa.com"
 email="thito@maisqa.com">
 Seu nome 
 </author>
+<preference name=”orientation” value=”portrait”>
+<preference name=”fullscreen” value=”true”>
+<preference name=”permissions” value=”none”>
+<icon src=”icon.png”>
+<gap:splash src=”splash.png”>
+
 </widget>
