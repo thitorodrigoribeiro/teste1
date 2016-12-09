@@ -2,6 +2,12 @@
 <widget xmlns="http://www.w3.org/ns/widgets"
 xmlns:gap="http://phonegap.com/ns/1.0"
 id="br.fib.lp5.teste1" Version="1.0.0">
+<preference name=”orientation” value=”portrait”>
+<preference name=”fullscreen” value=”true”>
+<preference name=”permissions” value=”none”>
+<icon src=”icon.png”>
+<gap:splash src=”splash.png”>
+	
 <name>LP5-teste12</name>
 <description>LP5 
 Teste1</description>
@@ -10,9 +16,5 @@ http://www.masiqa.com"
 email="thito@maisqa.com">
 Thito Ribeiro 
 </author>
-<preference name=”orientation” value=”portrait”>
-<preference name=”fullscreen” value=”true”>
-<preference name=”permissions” value=”none”>
-<icon src=”icon.png”>
-<gap:splash src=”splash.png”>
+
 </widget>
