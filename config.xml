@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+xmlns:gap="http://phonegap.com/ns/1.0"
+id="br.fib.lp5.teste1" Version="1.0.0">
+<name>LP5-teste12</name>
+<description>LP5 
+Teste1</description>
+<author href="
+http://www.masiqa.com"  
+email="thito@maisqa.com">
+Seu nome 
+</author>
+</widget>
