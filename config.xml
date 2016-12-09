@@ -13,5 +13,5 @@ Thito Ribeiro
   <preference name="orientation" value="portrait" />
   <preference name="fullscreen" value="true" />
   <icon src="icon.png"/>
-  <splash src="splash.png"/>
+  <gap:splash src="splash.png"/>
 </widget>
