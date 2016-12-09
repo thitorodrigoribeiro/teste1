@@ -8,6 +8,5 @@ http://www.masiqa.com"
 email="thito@maisqa.com">
 Thito Ribeiro 
 </author>
-<preference name=”orientation” value=”portrait”/>
-<preference name=”fullscreen” value=”true”/>
+
 </widget>
